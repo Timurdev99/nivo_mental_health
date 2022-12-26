@@ -1,0 +1,236 @@
+[
+  {
+    "Timestamp": "11/21/2020 16:26:55",
+    "Patient Name": "Lianna",
+    "GAD-7 Score": 17,
+    "PHQ-9 Score": 19
+  },
+  {
+    "Timestamp": "12/23/2020 14:10:57",
+    "Patient Name": "Lianna",
+    "GAD-7 Score": 14,
+    "PHQ-9 Score": 19
+  },
+  {
+    "Timestamp": "1/23/2021 16:06:56",
+    "Patient Name": "Lianna",
+    "GAD-7 Score": 14,
+    "PHQ-9 Score": 19
+  },
+  {
+    "Timestamp": "2/6/2021 11:09:48",
+    "Patient Name": "Lianna",
+    "GAD-7 Score": 14,
+    "PHQ-9 Score": 19
+  },
+  {
+    "Timestamp": "3/10/2021 11:12:05",
+    "Patient Name": "Lianna",
+    "GAD-7 Score": 14,
+    "PHQ-9 Score": 18
+  },
+  {
+    "Timestamp": "4/20/2021 16:10:27",
+    "Patient Name": "Lianna",
+    "GAD-7 Score": 13,
+    "PHQ-9 Score": 16
+  },
+  {
+    "Timestamp": "5/5/2021 8:55:48",
+    "Patient Name": "Lianna",
+    "GAD-7 Score": 11,
+    "PHQ-9 Score": 16
+  },
+  {
+    "Timestamp": "5/14/2021 17:29:17",
+    "Patient Name": "Lianna",
+    "GAD-7 Score": 11,
+    "PHQ-9 Score": 16
+  },
+  {
+    "Timestamp": "6/1/2021 11:20:41",
+    "Patient Name": "Lianna",
+    "GAD-7 Score": 11,
+    "PHQ-9 Score": 13
+  },
+  {
+    "Timestamp": "7/1/2021 20:50:03",
+    "Patient Name": "Lianna",
+    "GAD-7 Score": 11,
+    "PHQ-9 Score": 13
+  },
+  {
+    "Timestamp": "7/26/2021 11:14:38",
+    "Patient Name": "Lianna",
+    "GAD-7 Score": 11,
+    "PHQ-9 Score": 13
+  },
+  {
+    "Timestamp": "7/30/2021 0:03:33",
+    "Patient Name": "Lianna",
+    "GAD-7 Score": 13,
+    "PHQ-9 Score": 17
+  },
+  {
+    "Timestamp": "8/3/2021 12:23:13",
+    "Patient Name": "Lianna",
+    "GAD-7 Score": 13,
+    "PHQ-9 Score": 17
+  },
+  {
+    "Timestamp": "11/9/2020 19:52:17",
+    "Patient Name": "Carl",
+    "GAD-7 Score": 20,
+    "PHQ-9 Score": 18
+  },
+  {
+    "Timestamp": "12/9/2020 7:34:39",
+    "Patient Name": "Carl",
+    "GAD-7 Score": 18,
+    "PHQ-9 Score": 23
+  },
+  {
+    "Timestamp": "12/13/2020 9:29:24",
+    "Patient Name": "Carl",
+    "GAD-7 Score": 18,
+    "PHQ-9 Score": 23
+  },
+  {
+    "Timestamp": "1/18/2021 10:40:11",
+    "Patient Name": "Carl",
+    "GAD-7 Score": 12,
+    "PHQ-9 Score": 15
+  },
+  {
+    "Timestamp": "2/8/2021 9:05:17",
+    "Patient Name": "Carl",
+    "GAD-7 Score": 16,
+    "PHQ-9 Score": 14
+  },
+  {
+    "Timestamp": "3/8/2021 9:15:59",
+    "Patient Name": "Carl",
+    "GAD-7 Score": 16,
+    "PHQ-9 Score": 14
+  },
+  {
+    "Timestamp": "11/8/2020 13:23:49",
+    "Patient Name": "Michael",
+    "GAD-7 Score": 13,
+    "PHQ-9 Score": 12
+  },
+  {
+    "Timestamp": "12/28/2020 18:09:48",
+    "Patient Name": "Michael",
+    "GAD-7 Score": 12,
+    "PHQ-9 Score": 17
+  },
+  {
+    "Timestamp": "1/5/2021 13:10:14",
+    "Patient Name": "Michael",
+    "GAD-7 Score": 8,
+    "PHQ-9 Score": 14
+  },
+  {
+    "Timestamp": "2/4/2021 18:29:47",
+    "Patient Name": "Michael",
+    "GAD-7 Score": 15,
+    "PHQ-9 Score": 22
+  },
+  {
+    "Timestamp": "3/5/2021 12:23:23",
+    "Patient Name": "Michael",
+    "GAD-7 Score": 20,
+    "PHQ-9 Score": 22
+  },
+  {
+    "Timestamp": "4/6/2021 12:24:45",
+    "Patient Name": "Michael",
+    "GAD-7 Score": 20,
+    "PHQ-9 Score": 22
+  },
+  {
+    "Timestamp": "5/8/2021 11:28:32",
+    "Patient Name": "Michael",
+    "GAD-7 Score": 19,
+    "PHQ-9 Score": 18
+  },
+  {
+    "Timestamp": "6/2/2021 14:28:39",
+    "Patient Name": "Michael",
+    "GAD-7 Score": 16,
+    "PHQ-9 Score": 17
+  },
+  {
+    "Timestamp": "11/28/2020 16:18:23",
+    "Patient Name": "Stacy",
+    "GAD-7 Score": 18,
+    "PHQ-9 Score": 23
+  },
+  {
+    "Timestamp": "12/30/2020 9:45:29",
+    "Patient Name": "Stacy",
+    "GAD-7 Score": 19,
+    "PHQ-9 Score": 25
+  },
+  {
+    "Timestamp": "1/25/2021 11:58:26",
+    "Patient Name": "Stacy",
+    "GAD-7 Score": 16,
+    "PHQ-9 Score": 22
+  },
+  {
+    "Timestamp": "2/26/2021 8:24:53",
+    "Patient Name": "Stacy",
+    "GAD-7 Score": 14,
+    "PHQ-9 Score": 23
+  },
+  {
+    "Timestamp": "4/1/2021 9:21:01",
+    "Patient Name": "Stacy",
+    "GAD-7 Score": 16,
+    "PHQ-9 Score": 23
+  },
+  {
+    "Timestamp": "5/3/2021 10:12:13",
+    "Patient Name": "Stacy",
+    "GAD-7 Score": 14,
+    "PHQ-9 Score": 26
+  },
+  {
+    "Timestamp": "1/18/2021 8:14:53",
+    "Patient Name": "Mitchell",
+    "GAD-7 Score": 14,
+    "PHQ-9 Score": 17
+  },
+  {
+    "Timestamp": "2/22/2021 10:09:22",
+    "Patient Name": "Mitchell",
+    "GAD-7 Score": 14,
+    "PHQ-9 Score": 17
+  },
+  {
+    "Timestamp": "3/11/2021 8:54:42",
+    "Patient Name": "Mitchell",
+    "GAD-7 Score": 17,
+    "PHQ-9 Score": 21
+  },
+  {
+    "Timestamp": "5/25/2021 11:01:09",
+    "Patient Name": "Mitchell",
+    "GAD-7 Score": 10,
+    "PHQ-9 Score": 10
+  },
+  {
+    "Timestamp": "6/22/2021 10:47:58",
+    "Patient Name": "Mitchell",
+    "GAD-7 Score": 6,
+    "PHQ-9 Score": 12
+  },
+  {
+    "Timestamp": "7/6/2021 10:48:21",
+    "Patient Name": "Mitchell",
+    "GAD-7 Score": 6,
+    "PHQ-9 Score": 6
+  }
+]
